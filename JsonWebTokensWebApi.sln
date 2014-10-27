@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorizationServer.Api", "AuthorizationServer.Api\AuthorizationServer.Api.csproj", "{EFEA857C-7465-42FD-B3F5-3B225863E9E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceServer.Api", "ResourceServer.Api\ResourceServer.Api.csproj", "{4021D184-5A67-4520-986D-A8B9475C24E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFEA857C-7465-42FD-B3F5-3B225863E9E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEA857C-7465-42FD-B3F5-3B225863E9E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEA857C-7465-42FD-B3F5-3B225863E9E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEA857C-7465-42FD-B3F5-3B225863E9E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4021D184-5A67-4520-986D-A8B9475C24E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4021D184-5A67-4520-986D-A8B9475C24E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4021D184-5A67-4520-986D-A8B9475C24E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4021D184-5A67-4520-986D-A8B9475C24E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
